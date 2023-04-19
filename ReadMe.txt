@@ -1,1 +1,0 @@
-This project is to send slack event to AWS Lambda to start the CodePipeline
